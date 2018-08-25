@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Marsclicker.unity
+    guid: 982343f563127ae42be5071c95c1da77
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 4c956b5a8741bf44d9df835296debe1b
+  m_configObjects: {}
